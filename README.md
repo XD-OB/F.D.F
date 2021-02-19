@@ -17,7 +17,7 @@ For the line drawing i used:
 
 ## Compiling and running (Currently only for on OS X!)
 * Run `make`
-* `./fdf [map]`
+* Execute `./fdf [map]`
 
 # Owners
 ### Oussama Belouche 1337
