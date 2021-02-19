@@ -20,5 +20,5 @@ For the line drawing i used:
 * `./fdf [map]`
 
 # Owners
-## Oussama Belouche 1337
-## Ilyas Shaimoun 1337
+### Oussama Belouche 1337
+### Ilyas Shaimoun 1337
