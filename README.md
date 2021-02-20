@@ -13,6 +13,9 @@ You can rotate models, you can use various projections, and color the render.
 For the line drawing i used:
 * Bresenham's line algorithm
 
+## Graphic library
+* miniLibX (supported only in MAC OS)
+
 ## Features
 * Simple file format definition (array of space-separated integers)
 * Multiple projections.
@@ -20,7 +23,7 @@ For the line drawing i used:
 * Camera controls (zoom, translate)
 * Pretty colors palette!
 
-## Compiling and running (Currently only for on OS X!)
+## Compiling and running
 * Run `make`
 * Execute `./fdf [map]`
 
