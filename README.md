@@ -1,9 +1,12 @@
-
 # FdF
 
-![screenshot](/screens/screen.png?raw=true)
+A 3D Wireframe Viewer (macOS is only supported).
 
-A simple 3D height-map renderer. You can rotate models, you can use various projections, and color the render.
+![screenshot](/ressources/white_42.jpg)
+![screenshot](/ressources/pink_42.jpg)
+![screenshot](/ressources/orange_pyramide.jpg)
+
+You can rotate models, you can use various projections, and color the render.
 
 For the line drawing i used:
 * Bresenham's line algorithm

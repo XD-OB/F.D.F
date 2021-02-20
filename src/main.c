@@ -23,13 +23,13 @@ int		main(int ac, char **av)
 		map_create(av[1], fdf);
 		fdf->mlx = mlx_init();
 		fdf->win = mlx_new_window(fdf->mlx, fdf->width,
-				fdf->height, "F.D.F:  5||Z.Tech");
+				fdf->height, "F.D.F");
 		put_fdf(fdf);
 		mlx_key_hook(fdf->win, key_event, (void*)fdf);
 		mlx_mouse_hook(fdf->win, mouse_event, (void*)fdf);
 		mlx_loop(fdf->mlx);
 	}
 	else
-		ft_putstr("Usage: ./fdf file.fdf\n");
+		ft_putstr("Usage: ./fdf <file.fdf>\n");
 	return (0);
 }
