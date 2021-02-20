@@ -2,9 +2,11 @@
 
 A 3D Wireframe Viewer (macOS is only supported).
 
-![screenshot](/ressources/white_42.jpg)
-![screenshot](/ressources/pink_42.jpg)
-![screenshot](/ressources/orange_pyramide.jpg)
+![screenshot](/ressources/white_42.png)
+
+![screenshot](/ressources/pink_42.png)
+
+![screenshot](/ressources/orange_pyramide.png)
 
 You can rotate models, you can use various projections, and color the render.
 
