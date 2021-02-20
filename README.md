@@ -25,5 +25,8 @@ For the line drawing i used:
 * Execute `./fdf [map]`
 
 # Owners
-### Oussama Belouche 1337
-### Ilyas Shaimoun 1337
+- Oussama Belouche 1337
+- Ilyas Shaimoun 1337
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
